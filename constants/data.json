@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "Salary",
+    "paymentType": "card",
+    "category": "saving",
+    "amount": 500,
+    "location": "Lagos",
+    "date": "2024-07-17",
+    "createdAt": "2024-07-08",
+    "updatedAt": "2024-07-08",
+    "__v": 0
+  },
+  {
+    "id": "2",
+    "title": "Rent",
+    "paymentType": "card",
+    "category": "expense",
+    "amount": 150,
+    "location": "Lagos",
+    "date": "2024-07-01",
+    "createdAt": "2024-07-08",
+    "updatedAt": "2024-07-08",
+    "__v": 0
+  },
+  {
+    "id": "3",
+    "title": "BTC",
+    "paymentType": "card",
+    "category": "investment",
+    "amount": 200,
+    "location": "Bybit",
+    "date": "2024-07-24",
+    "createdAt": "2024-07-08",
+    "updatedAt": "2024-07-08",
+    "__v": 0
+  },
+  {
+    "id": "4",
+    "title": "Salary",
+    "paymentType": "card",
+    "category": "saving",
+    "amount": 4500,
+    "location": "New York",
+    "date": "2024-07-18",
+    "createdAt": "2024-07-08",
+    "updatedAt": "2024-07-08",
+    "__v": 0
+  },
+  {
+    "id": "5",
+    "title": "Rent",
+    "paymentType": "card",
+    "category": "expense",
+    "amount": 1200,
+    "location": "New York",
+    "date": "2024-07-01",
+    "createdAt": "2024-07-08",
+    "updatedAt": "2024-07-08",
+    "__v": 0
+  },
+  {
+    "id": "6",
+    "title": "Apple Stocks",
+    "paymentType": "card",
+    "category": "investment",
+    "amount": 500,
+    "location": "Well Street",
+    "date": "2024-07-10",
+    "createdAt": "2024-07-08",
+    "updatedAt": "2024-07-08",
+    "__v": 0
+  },
+  {
+    "id": "7",
+    "title": "Apple Stocks",
+    "paymentType": "card",
+    "category": "investment",
+    "amount": 500,
+    "location": "Well Street",
+    "date": "2024-07-10",
+    "createdAt": "2024-07-08",
+    "updatedAt": "2024-07-08",
+    "__v": 0
+  }
+]

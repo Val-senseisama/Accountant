@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "accountant",
+    "slug": "accountant",
+    "scheme":"accountant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-black.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/Designer.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+     "expo-router": {
+      "entryPoint": "expo-router/entry"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo-black.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/logo-black.png"
+    },
+    "plugins": [
+      "expo-router",
+    ]
+  }
+}
